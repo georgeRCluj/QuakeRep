@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_6b2db019a096e2d7f706476478056f3b1f5eba36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_65baf26e2498be2b9ed2cd3841c0619a0d48dcb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_f87d17dfd481ceb46e2543cb2bf459203a77fe8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="afa64d988adb81ec5f4fe5c51b202cd1e73f1777">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c9e14fb784f553092531fcf224a2cfc22f7b3d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_36b937405efffae46998873217b223dd2f1167dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3079457495be3ee06748e0a508375476deb48387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_9b11f33f27824cb17735dda2d9a6f955835e7873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_59fce1b79ea74ebcbf5013426ffbfe2cf80ded03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cb56488ec0eb79b91152d9b51ef66c5911df0ba">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\pre-dexed\debug\instant-run_eadceaafc0f6000e68a3525e94b430669e759fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_32c6939d79b4e3ac322cfd3a2de2d8a2f7f0a89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_07c8842a5e79869f7f9614cd6251a5b983f9d07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_587c7fc79b818b1ecf84560483a9d533c93a6603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_546b2e65e64affba5e6d27a4e93ccd8b93891cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_65a29ce29d38eef25caa5a1274612a6737d884fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cf928aef425a9f2574e856815747e95600867cfe">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\instant-run_a0af9949395c55e0c6fa584262db809a8253ecb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ec5515ccaa1ce4d17155baf9c94693d5cce04992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="14d1240bbf1aafcd8c2cfdb4a6108c79c376d47f">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\QuakeReport\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7d2a5576045a609666138e1b3147ea1a1f8df434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d5de9fcf6ab62d77dfd0bdada4643be7a54cf0e">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7156f0fdc9e890158a31ea74e40344068b23c0c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_801cfaffbdc7e5f7a0b3b08400ba9fff11b94005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_3afb25bc44e2e67bd887e68f46466cd2d12eb093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_55fbec04d6c0b860911ccc5f4bf2d9bc7787004a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b58eda59ae4d50b8121e32761dc6fc79a9bbcb46">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\PROJECT 3 MATES\ud843-QuakeReport\app\build\intermediates\pre-dexed\debug\instant-run_d0caa590d791b6a82451c3db57479f120bfd6edb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_d597af1144758374c6ce6a8f3a82f1a888fd638f.jar" />
+    </item>
+
+</items>

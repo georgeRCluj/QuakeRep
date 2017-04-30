@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="857261263393555"
+    token="3822923365312785298"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="798" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="455" />
+    <task
+        name="verifier"
+        duration="334" />
+
+    <artifact
+        location="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="857261263393555"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Emanuela\AndroidStudioProjects\QuakeReport\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
